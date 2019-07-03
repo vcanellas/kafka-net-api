@@ -1,0 +1,15 @@
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\bin\Debug\netcoreapp2.2\Kafka.API.dll.config
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\bin\Debug\netcoreapp2.2\Kafka.API.deps.json
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\bin\Debug\netcoreapp2.2\Kafka.API.runtimeconfig.json
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\bin\Debug\netcoreapp2.2\Kafka.API.runtimeconfig.dev.json
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\bin\Debug\netcoreapp2.2\Kafka.API.dll
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\bin\Debug\netcoreapp2.2\Kafka.API.pdb
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\obj\Debug\netcoreapp2.2\Kafka.API.csprojAssemblyReference.cache
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\obj\Debug\netcoreapp2.2\Kafka.API.csproj.CoreCompileInputs.cache
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\obj\Debug\netcoreapp2.2\Kafka.API.RazorAssemblyInfo.cache
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\obj\Debug\netcoreapp2.2\Kafka.API.RazorAssemblyInfo.cs
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\obj\Debug\netcoreapp2.2\Kafka.API.AssemblyInfoInputs.cache
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\obj\Debug\netcoreapp2.2\Kafka.API.AssemblyInfo.cs
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\obj\Debug\netcoreapp2.2\Kafka.API.RazorTargetAssemblyInfo.cache
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\obj\Debug\netcoreapp2.2\Kafka.API.dll
+C:\Users\vladimir.vasconcelos\Kafka.API\Kafka.API\Kafka.API\obj\Debug\netcoreapp2.2\Kafka.API.pdb
